@@ -1,0 +1,11 @@
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\bin\Debug\netcoreapp2.0\BotDemo.deps.json
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\bin\Debug\netcoreapp2.0\BotDemo.runtimeconfig.json
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\bin\Debug\netcoreapp2.0\BotDemo.runtimeconfig.dev.json
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\bin\Debug\netcoreapp2.0\BotDemo.dll
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\bin\Debug\netcoreapp2.0\BotDemo.pdb
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\obj\Debug\netcoreapp2.0\BotDemo.csproj.CoreCompileInputs.cache
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\obj\Debug\netcoreapp2.0\BotDemo.AssemblyInfoInputs.cache
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\obj\Debug\netcoreapp2.0\BotDemo.AssemblyInfo.cs
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\obj\Debug\netcoreapp2.0\BotDemo.dll
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\obj\Debug\netcoreapp2.0\BotDemo.pdb
+C:\Users\dawkir\source\repos\BotDemo\BotDemo\obj\Debug\netcoreapp2.0\BotDemo.csprojAssemblyReference.cache
